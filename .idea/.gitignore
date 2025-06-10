@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Archivos y carpetas del IDE (GoLand/JetBrains)
+# Contienen configuración personal de tu entorno y no deben compartirse.
+.idea/
+*.iml
+
+# Binarios compilados de Go
+# Estos se generan a partir del código fuente, nunca se comitean.
+*.exe
+/event-ticket-api
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
